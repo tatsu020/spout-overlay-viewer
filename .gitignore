@@ -492,3 +492,4 @@ $RECYCLE.BIN/
 *.userconfig
 *.cache
 TestResults/
+dist/
