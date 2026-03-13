@@ -2,7 +2,7 @@
 
 `Spout Overlay Viewer` は、Windows 上で Spout sender の映像を受信し、透過付きの最前面オーバーレイとして表示する `.NET 9` / Windows Forms アプリです。
 
-OBS や Resolume、TouchDesigner などから送られた Spout テクスチャを、操作用のオーバーレイとしてデスクトップ上に重ねて表示する用途を想定しています。
+VTube Studio や VSeeFace、VRChat などから送られた Spout テクスチャを、デスクトップ上にオーバーレイ表示する用途を想定しています。クリック透過にも対応しているため、他のアプリの操作を邪魔しにくい構成です。
 
 ## Features
 
